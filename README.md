@@ -1,0 +1,1 @@
+# How-to-install-SQL-2017-server-on-Ubuntu-Machine
